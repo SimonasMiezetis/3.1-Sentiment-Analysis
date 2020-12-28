@@ -16,6 +16,7 @@ body{
         text-align: center;
         padding-bottom: 30px;
         padding-top: 30px;
+        margin-bottom: 20px;
     }
         div{
             background-color: white;
@@ -35,11 +36,11 @@ body{
         }
             img{
                 display: inline-block;
-                height: 125px;
+                height: 140px;
                 width: 100%;
                 float: left;
                 margin-top: 15px;
-                margin-bottom: 15px;
+                margin-bottom: -5px;
             }
             h3{
               display: inline-block;
@@ -75,6 +76,9 @@ body{
                 background-color: #DEFBEF;
                 color: #72C1A9;
             }
+            button:hover{
+                text-decoration: underline;
+            }
     footer{
         display: inline-block;
         width: 100%;
@@ -86,4 +90,5 @@ body{
             float: left;
             width: 40%;
             margin-left: 230px;
+            height: 110px;
         }   
