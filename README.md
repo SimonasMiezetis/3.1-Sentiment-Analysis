@@ -3,15 +3,15 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Sign up
+# Sentiment Analysis
 
-_21 group Sign up website project_
+_Sentiment Analysis website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
 Site published at https://simonasmiezetis.github.io/3.1-Sentiment-analysis/
 
-Design: [Sign up](https://cdn.discordapp.com/attachments/788096811985666078/793037854414340096/Screenshot_2020-12-28_at_10.40.34.png)
+Design: [Sentiment Analysis](https://cdn.discordapp.com/attachments/788096811985666078/793037854414340096/Screenshot_2020-12-28_at_10.40.34.png)
 
 ## Project features
 
